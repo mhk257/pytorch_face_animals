@@ -5,29 +5,66 @@
 ### Models trained on 300W - public, comprising 3148 training images.
 Random data augmentation was used with following parameters: scale (0.75-1.25), rotation (-30 to 30 degrees), and color jittering on each plane (0.6-1.4). 
 
-#### Dataset: 300W-public, Testing images: 689  
-norm_type: interocular distance  
+#### Dataset: 300W-public, Testing images: 689    
 
-| Arch.  | train_68pts | train_9pts | 
-| ------------- | ------------- | ------------- | 
+<table>
+<tr><th>norm_type: Interocular distance </th><th>norm_type: Face Size</th></tr>
+<tr><td>
+
+| Arch.  | train_68pts | train_9pts |   
+| -- | -- | -- | 
 | HG-3 | 0.0342 | 0.0346 |    
 | HG-2 | 0.0345 | 0.0352 |  
 
-#### Dataset: 300W-private, Testing images: 600    
-norm_type: interocular distance  
-
-| Arch.  | train_68pts | train_9pts | 
-| ------------- | ------------- | ------------- | 
+</td><td>
+ 
+| Arch.  | train_68pts | train_9pts |   
+| -- | -- | -- | 
 | HG-3 | 0.0342 | 0.0346 |    
 | HG-2 | 0.0345 | 0.0352 |
 
-#### Dataset: COFW, Testing images: 507    
-norm_type: interocular distance
+</td></tr> </table>
+ 
+#### Dataset: 300W-private, Testing images: 600  
 
-| Arch.  | train_68pts | train_9pts | 
-| ------------- | ------------- | ------------- | 
+<table>
+<tr><th>norm_type: Interocular distance </th><th>norm_type: Face Size</th></tr>
+<tr><td>
+
+| Arch.  | train_68pts | train_9pts |   
+| -- | -- | -- | 
+| HG-3 | 0.0342 | 0.0346 |    
+| HG-2 | 0.0345 | 0.0352 |  
+
+</td><td>
+ 
+| Arch.  | train_68pts | train_9pts |   
+| -- | -- | -- | 
 | HG-3 | 0.0342 | 0.0346 |    
 | HG-2 | 0.0345 | 0.0352 |
+
+</td></tr> </table>
+
+
+#### Dataset: COFW, Testing images: 507  
+
+<table>
+<tr><th>norm_type: Interocular distance </th><th>norm_type: Face Size</th></tr>
+<tr><td>
+
+| Arch.  | train_68pts | train_9pts |   
+| -- | -- | -- | 
+| HG-3 | 0.0342 | 0.0346 |    
+| HG-2 | 0.0345 | 0.0352 |  
+
+</td><td>
+ 
+| Arch.  | train_68pts | train_9pts |   
+| -- | -- | -- | 
+| HG-3 | 0.0342 | 0.0346 |    
+| HG-2 | 0.0345 | 0.0352 |
+
+</td></tr> </table>
 
 
 ## Animal Face Alignment  
