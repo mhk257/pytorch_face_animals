@@ -20,8 +20,8 @@ Random data augmentation was used with following parameters: scale (0.75-1.25), 
  
 | Arch.  | train_68pts | train_9pts |   
 | -- | -- | -- | 
-| HG-3 | 0.0342 | 0.0346 |    
-| HG-2 | 0.0345 | 0.0352 |
+| HG-3 | 0.0141 | 0.0140 |    
+| HG-2 | 0.0142 | 0.0143 |
 
 </td></tr> </table>
  
@@ -33,15 +33,15 @@ Random data augmentation was used with following parameters: scale (0.75-1.25), 
 
 | Arch.  | train_68pts | train_9pts |   
 | -- | -- | -- | 
-| HG-3 | 0.0342 | 0.0346 |    
-| HG-2 | 0.0345 | 0.0352 |  
+| HG-3 | 0.0426 | 0.0636 |    
+| HG-2 | 0.0437 | 0.0613 |  
 
 </td><td>
  
 | Arch.  | train_68pts | train_9pts |   
 | -- | -- | -- | 
-| HG-3 | 0.0342 | 0.0346 |    
-| HG-2 | 0.0345 | 0.0352 |
+| HG-3 | 0.0178 | 0.0231 |    
+| HG-2 | 0.0182 | 0.0226 |
 
 </td></tr> </table>
 
@@ -54,15 +54,15 @@ Random data augmentation was used with following parameters: scale (0.75-1.25), 
 
 | Arch.  | train_68pts | train_9pts |   
 | -- | -- | -- | 
-| HG-3 | 0.0342 | 0.0346 |    
-| HG-2 | 0.0345 | 0.0352 |  
+| HG-3 | 0.0574 | 0.0819 |    
+| HG-2 | 0.0587 | 0.0861 |  
 
 </td><td>
  
 | Arch.  | train_68pts | train_9pts |   
 | -- | -- | -- | 
-| HG-3 | 0.0342 | 0.0346 |    
-| HG-2 | 0.0345 | 0.0352 |
+| HG-3 | 0.0260 | 0.0327 |    
+| HG-2 | 0.0267 | 0.0344 |
 
 </td></tr> </table>
 
