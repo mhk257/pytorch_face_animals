@@ -1,4 +1,4 @@
-# pytorch_face_animals
+# Animal Face Alignment
 
 
 ## Human Face Alignment
