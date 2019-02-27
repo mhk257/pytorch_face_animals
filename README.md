@@ -75,8 +75,8 @@ norm_type: face size
 
 | Arch.  | train_9pts |
 | ------------- | ------------- | 
-| HG-3 | 0.0546 |    
-| HG-2 |  |  | 
+| HG-3 | 0.0651 |    
+| HG-2 | 0.0662 | 
 
 ### Models trained on Animal-Faces dataset, comprising 14168 training images. Split of train/test contains 80/20 per each class.  
 Random data augmentation: Same as above.  
@@ -85,8 +85,8 @@ norm_type: face size
 
 | Arch.  | train_9pts |
 | ------------- | ------------- | 
-| HG-3 | 0.0546 |    
-| HG-2 |  |  | 
+| HG-3 | 0.0548 |    
+| HG-2 | 0.0556 | 
 
 
 
